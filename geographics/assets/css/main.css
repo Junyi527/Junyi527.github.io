@@ -18,12 +18,13 @@ a {
   }
   
   .row:hover {
-	background-color: black;
+	background-color: lawngreen;
 	color: white;
   }
   
   .col {
 	width: 33.33%;
+	padding-left: 15%;
   }
   
   .title {
@@ -37,6 +38,7 @@ a {
   .content {
 	font-size: 30px;
 	display: none;
+	padding-top: 5%;
   }
 
   .content img{
@@ -136,6 +138,7 @@ a {
   
   .web {
 	font-size: 18px;
+	word-wrap: break-word;
   }
 
   .title {
